@@ -2,12 +2,15 @@
 tags: [Books/Authors/Eric Bowers, Books/Category/Self Help, Notebooks/Book Notes/Complete]
 title: Meet Me in Hard-to-Love Places
 created: '2019-07-14T17:52:17.167Z'
-modified: '2019-07-14T20:10:52.490Z'
+modified: '2019-09-05T04:28:45.429Z'
 ---
 
 # Meet Me in Hard-to-Love Places
 **Eric Bowers**
 *June 2019*
+
+Notice: I own or legally borrowed this book and took these notes to memorialize and further my learning. If you enjoyed these notes, **[please purchase the book here](https://amzn.to/2LsxtkB)** or borrow it from your local library.
+
 
 ## 1 Building a successful relationship
 ### I get to be me, you get to be you.

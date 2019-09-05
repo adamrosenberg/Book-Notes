@@ -2,14 +2,14 @@
 tags: [Notebooks/Book Notes, Notebooks/Book Notes/Complete]
 title: Never Split the Difference
 created: '2019-08-28T17:48:26.483Z'
-modified: '2019-09-03T20:53:53.794Z'
+modified: '2019-09-05T04:29:00.992Z'
 ---
 
 # Never Split the Difference
 **Chris Voss**
 *Aug 2019*
 
-Notice: I, Adam Rosenberg, own or legally borrowed this book and tooks these notes to memorialize and further my learning. If you enjoyed these notes, **[please purchase the book here](https://amzn.to/2ZKSPP4)** or borrow it from your local library.
+Notice: I own or legally borrowed this book and took these notes to memorialize and further my learning. If you enjoyed these notes, **[please purchase the book here](https://amzn.to/2ZKSPP4)** or borrow it from your local library.
 
 *<p style="margin:30px 0; font-size:32px;">“How am I supposed to do that?”</p>*
 

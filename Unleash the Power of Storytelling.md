@@ -2,15 +2,17 @@
 tags: [Books/Authors/Rob Biesenbach, Books/Category/Self Improvement, Books/Topics/Storytelling, Notebooks/Book Notes/Complete]
 title: Unleash the Power of Storytelling
 created: '2019-07-14T19:02:10.884Z'
-modified: '2019-07-15T22:33:27.636Z'
+modified: '2019-09-05T04:30:01.743Z'
 ---
 
 # Unleash the Power of Storytelling
 **Rob Biesenbach**
 *June 2019*
 
-## 1 Storytelling Essentials
+Notice: I own or legally borrowed this book and took these notes to memorialize and further my learning. If you enjoyed these notes, **[please purchase the book here](https://amzn.to/2NQPn3i)** or borrow it from your local library.
 
+
+## 1 Storytelling Essentials
 * Stories cause the brain to release oxytocin, stimulate multiple sense and trigger mental models.
 
 ### Six Keys to Powerful Stories 
