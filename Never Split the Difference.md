@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks/Book Notes, Notebooks/Book Notes/Complete]
+tags: [Books/Authors/Chris Voss, Books/Category/Instructional, Books/Topics/Negotiation, Notebooks/Book Notes, Notebooks/Book Notes/Complete]
 title: Never Split the Difference
 created: '2019-08-28T17:48:26.483Z'
-modified: '2019-09-05T04:29:00.992Z'
+modified: '2019-09-24T22:54:37.899Z'
 ---
 
 # Never Split the Difference

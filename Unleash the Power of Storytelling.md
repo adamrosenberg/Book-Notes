@@ -1,8 +1,8 @@
 ---
-tags: [Books/Authors/Rob Biesenbach, Books/Category/Self Improvement, Books/Topics/Storytelling, Notebooks/Book Notes/Complete]
+tags: [Books/Authors/Rob Biesenbach, Books/Category/Instructional, Books/Topics/Storytelling, Notebooks/Book Notes/Complete]
 title: Unleash the Power of Storytelling
 created: '2019-07-14T19:02:10.884Z'
-modified: '2019-09-05T04:30:01.743Z'
+modified: '2019-09-24T22:54:58.173Z'
 ---
 
 # Unleash the Power of Storytelling
